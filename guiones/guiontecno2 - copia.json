@@ -8,42 +8,42 @@
                 "camara":"Camara1",
                 "duracion":0,
                 "target":"Punto1",
-                "nombre":"Inicio"
+                "nombre":"1"
            },
            {
-                "tiempo":"00:03",
+                "tiempo":"00:01",
                 "camara":"Camara2",
                 "duracion":0,
                 "target":"Punto2",
-                "nombre":"Puerta entrada"
+                "nombre":"2"
            },
            {
-                "tiempo":"00:15",
+                "tiempo":"00:02",
                 "camara":"Camara3",
                 "duracion":0,
                 "target":"Punto3",
-                "nombre":"Habitacion 1"
+                "nombre":"3"
            },
            {
-               "tiempo":"00:35",
+               "tiempo":"00:03",
                "camara":"Camara2",
                "duracion":0,
                "target":"Punto2",
-               "nombre":"Tragaluz"
+               "nombre":"4"
           },
            {
-                "tiempo":"00:47",
+                "tiempo":"00:04",
                 "camara":"Camara4",
                 "duracion":0,
                 "target":"Punto4",
-                "nombre":"Habitacion 2"
+                "nombre":"5"
            },
            {
-                "tiempo":"01:23",
+                "tiempo":"00:05",
                 "camara":"Camara5",
                 "duracion":0,
                 "target":"Punto5",
-                "nombre":"Baño pasado de moda"
+                "nombre":"6"
            }
            
         ]
